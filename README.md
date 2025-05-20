@@ -9,3 +9,9 @@
 <br>
 <br>
 <img src="https://github.com/jacqueduda/Projeto-1/blob/main/img/Captura%20de%20tela_20-5-2025_104953_127.0.0.1.jpeg?raw=true">
+<br>
+<br>
+<h2>Esse projeto foi para treinar Responsividade</h2>
+<br>
+<br>
+<img src="https://github.com/jacqueduda/Projeto-1/blob/main/img/Captura%20de%20tela_20-5-2025_105351_127.0.0.1.jpeg?raw=true">
